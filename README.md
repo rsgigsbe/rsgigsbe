@@ -3,7 +3,7 @@
 I'm Richard Schwarz and a scientific advisor at the German Informatics Society (Gesellschaft für Informatik e. V.).
 
 My current projects: 
-- Informatik-Monitor: informatik-monitor.de
+- Informatik-Monitor: winformatik-monitor.de
 - Werde Informatiklehrer:in: informatiklehrerin.de
 
 <!--
