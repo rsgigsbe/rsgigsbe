@@ -4,7 +4,7 @@ I'm Richard Schwarz and a scientific advisor at the German Informatics Society (
 
 My current projects: 
 - Informatik-Monitor: [informatik-monitor.de](informatik-monitor.de)
-- Werde Informatiklehrer:in: [informatik-monitor.de](informatiklehrerin.gi.de)
+- Werde Informatiklehrer:in: [informatiklehrerin.gi.de](informatiklehrerin.gi.de)
 
 <!--
 **rsgigsbe/rsgigsbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
